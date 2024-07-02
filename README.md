@@ -17,3 +17,7 @@ Test using Postman:
 - Step 1: Create Folder: POST https://nodejs-filesystem-viu8.onrender.com/create-folder
 - Step 2: Create File : POST https://nodejs-filesystem-viu8.onrender.com/create-file
 - Step 3: Read Files: GET: https://nodejs-filesystem-viu8.onrender.com/read-file
+
+## Screenshot
+
+![alt text](image.png)
