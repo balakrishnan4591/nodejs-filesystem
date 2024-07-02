@@ -14,6 +14,6 @@ Using Express and node this app can create a new folder, create new files and vi
 
 Test using Postman:
 
-Step 1: Create Folder: POST https://nodejs-filesystem-viu8.onrender.com/create-folder
-Step 2: Create File : POST https://nodejs-filesystem-viu8.onrender.com/create-file
-Step 3: Read Files: GET: https://nodejs-filesystem-viu8.onrender.com/read-file
+- Step 1: Create Folder: POST https://nodejs-filesystem-viu8.onrender.com/create-folder
+- Step 2: Create File : POST https://nodejs-filesystem-viu8.onrender.com/create-file
+- Step 3: Read Files: GET: https://nodejs-filesystem-viu8.onrender.com/read-file
