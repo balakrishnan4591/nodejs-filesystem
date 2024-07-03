@@ -18,6 +18,10 @@ Test using Postman:
 - Step 2: Create File : POST https://nodejs-filesystem-viu8.onrender.com/create-file
 - Step 3: Read Files: GET: https://nodejs-filesystem-viu8.onrender.com/read-file
 
+## API documentation
+
+https://documenter.getpostman.com/view/36588127/2sA3dxEXJp
+
 ## Screenshot
 
 ![alt text](image.png)
